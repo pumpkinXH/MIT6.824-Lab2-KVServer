@@ -5,6 +5,9 @@
 ### 实验网站地址
 [https://pdos.csail.mit.edu/6.824/labs/lab-mr.html](https://pdos.csail.mit.edu/6.824/labs/lab-kvsrv.html)
 
+### 主要代码
+src/kvsrv下的文件
+
 #### **1、实验要求**
 
 在本次 Lab 中，你将在单机上构建一个 key/value 服务器，以确保即使网络出现故障，每个操作也只能执行一次，并且操作是可线性化的。
